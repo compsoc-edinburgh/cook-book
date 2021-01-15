@@ -1,2 +1,2 @@
 # cook-book
-CompSoc Cook Book! Hey, good looking, whatcha got cooking?
+CompSoc Cook Book! What's cooking, good looking?
