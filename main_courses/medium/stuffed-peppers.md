@@ -27,7 +27,7 @@ Serves **8-11**
 4. Add the rice and 100ml water to the pan with the onions and carrots.
 5. Add thyme and a bit of salt to the pan and let it cook for another 10 minutes.
 6. Prepare the peppers for stuffing. Depending on their size and how much you want to stuff them, you will need anywhere from 8 to 11 of them.
-7. In a larger bowl, mix the cooked vegetables and the mushrooms with finely chopped dill and salt/pepper to your taste. Stuff the peppers with the mix.
+7. In a larger bowl, mix the cooked vegetables with the mushrooms and the finely chopped dill then season to taste. Stuff the peppers with the mix.
 8. Boil around 200ml of water and add the stock cubes. Place on a baking tray with the chopped tomatoes.
 9. Add the stuffed peppers to the tray and cook until well roasted.
 
