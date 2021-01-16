@@ -21,6 +21,10 @@ Serves **8-11**
 * 1 tsp pepper
 * 2 vegetable stock cubes
 
+## How to prepare the peppers for stuffing
+
+Take out the pith and the seeds from the peppers - do not halve them - then wash properly. 
+
 ## Method
 
 1. Add oil to the pan along with the onions and the carrots, fry for 7-8 minutes.
