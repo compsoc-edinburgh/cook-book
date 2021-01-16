@@ -21,7 +21,7 @@ To make the dough:
 To prepare the pierogi:
 1. Split the dough in half; leave one half covered and roll out the second half on a well-floured surface. You want the dough to be fairly thin, around ~2-3mm of thickness.
 2. Using the rim of a floured drinking glass, cut out circles in the rolled-out dough.
-3. Picking up one circle at a time, put in the filling - 1-2 teaspoons, depending on your confidence -, fold the circle in half and crimp the edges shut. 
+3. Picking up one circle at a time, put in the filling — 1-2 teaspoons, depending on your confidence, fold the circle in half and crimp the edges shut. 
 4. Repeat until all the pierogi are prepared. Keep the finished pierogi on a floured baking sheet and covered so they don't dry out. 
 
 To cook the pierogi: 
