@@ -1,19 +1,19 @@
 # Biscuit salami
 
-This no-bake roll with biscuits and cocoa is a Romanian family favorite!
+This no-bake roll with biscuits and cocoa is a Romanian family favorite dessert!
 Inspired by [this recipe](https://www.lauraadamache.ro/2013/12/salam-de-biscuiti.html) with a couple of modifications.
 
 Serves **an entire family**
 
 ## Ingredients
 
-* 200g butter biscuits (you can add more to taste)
+* 200g butter biscuits (you can add more to taste - Leibniz type biscuits should work best)
 * 50g cocoa powder
 * 130g butter
 * 100ml milk
 * 125g sugar (either brown or white)
 * 50g dark chocolate (at least 50% cocoa)
-* rum essence (not necessary but it makes the taste *much* better)
+* rum essence (not necessary but it makes the taste *much* better - any Polish store should have it)
 * vanilla sugar
 * powdered sugar
 * *extra filling*: nuts, almonds, raisins, cranberries, candied fruit, finely chopped Turkish delight, coconut flakes, or several of these!
