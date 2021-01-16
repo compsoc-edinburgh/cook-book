@@ -23,9 +23,7 @@ Serves **8-11**
 
 ## Method
 
-1. Wash the vegetables. Finely chop the onions and grate the carrots.
-2. Add oil to the pan along with the onions and the carrots, fry for 7-8 minutes.
-3. Finely chop the mushrooms.
+1. Add oil to the pan along with the onions and the carrots, fry for 7-8 minutes.
 4. Add the rice and 100ml water to the pan with the onions and carrots.
 5. Add thyme and a bit of salt to the pan and let it cook for another 10 minutes.
 6. Prepare the peppers for stuffing. Depending on their size and how much you want to stuff them, you will need anywhere from 8 to 11 of them.
