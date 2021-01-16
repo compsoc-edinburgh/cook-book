@@ -28,7 +28,7 @@ To cook the pierogi:
 1. Working in batches, put the pierogi in boiling water. Reduce to a simmer, and cook for a few minutes; once they start rising to the surface, check for doneness. Remove with a slotted spoon once done.  
 
 To serve:
-The cooked pierogi can be eaten or reheated as they - or you can pan-fry them in a bit of oil and serve them with some caramelized onions, fried bacon bits, and some sour cream. 
+The cooked pierogi can be eaten or reheated as they are - or you can pan-fry them in a bit of oil and serve them with some caramelized onions, fried bacon bits, and some sour cream. 
 
 ## Fillings
 ### Mushroom and sauerkraut
