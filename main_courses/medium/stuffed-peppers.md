@@ -9,11 +9,11 @@ Serves **8-11**
 ## Ingredients
 
 * 11 peppers (I tend to use red or yellow)
-* 3 brown onions
-* 2 carrots
-* 300g Champignon mushrooms (any of the smaller mushrooms varieties should do)
+* 3 brown onions, finely chopped
+* 2 carrots, coarsely grated
+* 300g Champignon mushrooms (any of the smaller mushrooms varieties should do), washed and finely chopped
 * 200g rice (risotto or generally white rice)
-* 1 bunch of fresh dill
+* 1 bunch of fresh dill, finely chopped
 * 1 can chopped tomatoes
 * 1 tbsp dry thyme
 * 60ml oil
