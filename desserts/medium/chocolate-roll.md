@@ -1,4 +1,4 @@
-# Biscuit salami
+# Chocolate roll
 
 This no-bake roll with biscuits and cocoa is a Romanian family favorite dessert!
 Inspired by [this recipe](https://www.lauraadamache.ro/2013/12/salam-de-biscuiti.html) with a couple of modifications.
