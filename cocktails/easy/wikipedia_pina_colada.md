@@ -4,7 +4,7 @@
 
 * 1 part white rum
 * 1 part (Alpro) coconut drink
-* 3 parts (Sainsbury's) pineapple juice
+* 3 parts pineapple juice
 * Ice
 
 ## Method
