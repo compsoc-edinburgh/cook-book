@@ -7,7 +7,7 @@
 * 500ml hot vegetable/chicken stock
 * 2 medium carrots, coarsely grated
 * 3 tbsp pine nuts
-* 100g feta, crumbled
+* 100g feta, crumbled (about half a packet)
 * juice & zest 1/2 lemon
 * 3 tbsp rapeseed/olive oil
 
