@@ -49,6 +49,6 @@ I found that this recipe yields more frosting than is needed, but it also seems 
 8. To make the frosting, steam the chocolate (place it in a thermally resistent bowl over a pot of boiling water) until melted.
 9. In a bowl, add the butter, icing sugar, cocoa powder and milk and mix until you obtain a cream-like consistency.
 10. Incorporate the two cheeses to the mixture.
-11. When the chocolate has cooled, add it to the frosting mixture.
+11. When the chocolate has slightly cooled, add it to the frosting mixture.
 12. Add the frosting in spirals over each cupcake and add some grated chocolate.
 13. Refrigerate and enjoy the cupcakes within 2-3 days!
