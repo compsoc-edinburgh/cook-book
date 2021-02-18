@@ -27,7 +27,7 @@ This recipe is adapted from a vegetarian cookbook, and it's quickly become a fav
 * 50g icing (powdered) sugar
 * 1tbsp cocoa powder
 * 1tsp semi-skimmed milk
-* 100g low-fat curd cheese
+* 100g low-fat curd cheese. This is known as twaróg in Polish, and it's a crumbly looking cheese as seen [here](https://polishhousewife.com/twarog-polish-farmers-cheese/)
 * 100g quark or mascarpone cheese
 
 ### Notes
