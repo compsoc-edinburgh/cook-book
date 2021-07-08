@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+<link rel="stylesheet" href="../scss/main.min.ed3d0df39ceb7191c7f41b5585c384a7f9efdf75b7a4002a04cb2c161dcbc62b.css">
+
+    <title>CompSoc Cookbook</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="mb-3">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container justify-content-center justify-content-sm-between">
+      <div class="navbar-toggler-wrapper d-lg-none">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse d-lg-flex" id="navbarSupportedContent">
+        <a class="navbar-brand flex-fill" href="../">
+          
+          <img
+            src="../img/cookbook-horizontal.svg"
+            alt="CompSoc Cookbook Logo"
+            width="320"
+            height="50"
+            class="pl-1 pl-sm-0">
+        </a>
+
+        <ul class="navbar-nav mr-auto">
+          
+          
+          <li class="nav-item">
+            <a
+              class="nav-link active"
+              aria-current="page"
+              href="../recipes/">
+              All recipes
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a
+              class="nav-link "
+              aria-current="page"
+              href="https://github.com/compsoc-edinburgh/cook-book">
+              Github
+            </a>
+          </li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </nav>
+  <hr>
+</header>
+
+      <main>
+
+        <h1 class="display-2 text-center mb-5" id="page-title">Loading...</h1>
+        <div class="row">
+          <section class="col-12 col-lg-3">
+            <div class="sticky-lg-top filters">
+              
+              <input class="form-control" name="q" id="search-query" type="text" placeholder="Search recipes" aria-label="Search Query">
+
+              
+              <div class="accordion accordion-flush mt-5" id="searchFilters">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="filterAllergensHeading">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#filterAllergensBody" aria-expanded="false" aria-controls="filterAllergensBody">
+                      Excluded Allergens
+                    </button>
+                  </h2>
+                  <div id="filterAllergensBody" class="accordion-collapse collapse" aria-labelledby="filterAllergensHeading" data-bs-parent="#searchFilters">
+                    
+                    <div class="accordion-body">
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenscelery" data-filter-key="allergens" data-filter-value="celery">
+                        <label class="form-check-label" for="filterallergenscelery">
+                          Celery
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensgluten" data-filter-key="allergens" data-filter-value="gluten">
+                        <label class="form-check-label" for="filterallergensgluten">
+                          Gluten
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenscrustaceans" data-filter-key="allergens" data-filter-value="crustaceans">
+                        <label class="form-check-label" for="filterallergenscrustaceans">
+                          Crustaceans
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenseggs" data-filter-key="allergens" data-filter-value="eggs">
+                        <label class="form-check-label" for="filterallergenseggs">
+                          Eggs
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensfish" data-filter-key="allergens" data-filter-value="fish">
+                        <label class="form-check-label" for="filterallergensfish">
+                          Fish
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenslupin" data-filter-key="allergens" data-filter-value="lupin">
+                        <label class="form-check-label" for="filterallergenslupin">
+                          Lupin
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensmilk" data-filter-key="allergens" data-filter-value="milk">
+                        <label class="form-check-label" for="filterallergensmilk">
+                          Milk
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensmolluscs" data-filter-key="allergens" data-filter-value="molluscs">
+                        <label class="form-check-label" for="filterallergensmolluscs">
+                          Molluscs
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensmustard" data-filter-key="allergens" data-filter-value="mustard">
+                        <label class="form-check-label" for="filterallergensmustard">
+                          Mustard
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergensnuts" data-filter-key="allergens" data-filter-value="nuts">
+                        <label class="form-check-label" for="filterallergensnuts">
+                          Nuts
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenspeanuts" data-filter-key="allergens" data-filter-value="peanuts">
+                        <label class="form-check-label" for="filterallergenspeanuts">
+                          Peanuts
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenssesame seeds" data-filter-key="allergens" data-filter-value="sesame seeds">
+                        <label class="form-check-label" for="filterallergenssesame seeds">
+                          Sesame Seeds
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenssoya" data-filter-key="allergens" data-filter-value="soya">
+                        <label class="form-check-label" for="filterallergenssoya">
+                          Soya
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterallergenssulphites" data-filter-key="allergens" data-filter-value="sulphites">
+                        <label class="form-check-label" for="filterallergenssulphites">
+                          Sulphites
+                        </label>
+                      </div>
+                      
+                    </div>
+                  </div>
+
+                  
+                  
+                  <h2 class="accordion-header" id="filterDifficultiesHeading">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#filterDifficultiesBody" aria-expanded="false" aria-controls="filterDifficultiesBody">
+                      Difficulties
+                    </button>
+                  </h2>
+                  <div id="filterDifficultiesBody" class="accordion-collapse collapse" aria-labelledby="filterDifficultiesHeading" data-bs-parent="#searchFilters">
+                    <div class="accordion-body">
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterdifficulties0-easy"  data-filter-key="difficulties" data-filter-value="0-easy">
+                        <label class="form-check-label" for="filterdifficulties0-easy">
+                          0-Easy
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterdifficulties1-medium"  data-filter-key="difficulties" data-filter-value="1-medium">
+                        <label class="form-check-label" for="filterdifficulties1-medium">
+                          1-Medium
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filterdifficulties2-hard"  data-filter-key="difficulties" data-filter-value="2-hard">
+                        <label class="form-check-label" for="filterdifficulties2-hard">
+                          2-Hard
+                        </label>
+                      </div>
+                      
+                    </div>
+                  </div>
+                  
+                  
+                  <h2 class="accordion-header" id="filterMealsHeading">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#filterMealsBody" aria-expanded="false" aria-controls="filterMealsBody">
+                      Meals
+                    </button>
+                  </h2>
+                  <div id="filterMealsBody" class="accordion-collapse collapse" aria-labelledby="filterMealsHeading" data-bs-parent="#searchFilters">
+                    <div class="accordion-body">
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filtermealscocktails"  data-filter-key="meals" data-filter-value="cocktails">
+                        <label class="form-check-label" for="filtermealscocktails">
+                          Cocktails
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filtermealsdesserts"  data-filter-key="meals" data-filter-value="desserts">
+                        <label class="form-check-label" for="filtermealsdesserts">
+                          Desserts
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filtermealsmain_courses"  data-filter-key="meals" data-filter-value="main_courses">
+                        <label class="form-check-label" for="filtermealsmain_courses">
+                          Main_courses
+                        </label>
+                      </div>
+                      
+                    </div>
+                  </div>
+                  
+                  
+                  <h2 class="accordion-header" id="filterTagsHeading">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#filterTagsBody" aria-expanded="false" aria-controls="filterTagsBody">
+                      Tags
+                    </button>
+                  </h2>
+                  <div id="filterTagsBody" class="accordion-collapse collapse" aria-labelledby="filterTagsHeading" data-bs-parent="#searchFilters">
+                    <div class="accordion-body">
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filtertagschicken-harissa-traybake"  data-filter-key="tags" data-filter-value="chicken-harissa-traybake">
+                        <label class="form-check-label" for="filtertagschicken-harissa-traybake">
+                          Chicken-Harissa-Traybake
+                        </label>
+                      </div>
+                      
+                      <div class="form-check">
+                        <input class="form-check-input filter-checkbox" type="checkbox" value="" id="filtertagssausage-traybake-sweet-potato"  data-filter-key="tags" data-filter-value="sausage-traybake-sweet-potato">
+                        <label class="form-check-label" for="filtertagssausage-traybake-sweet-potato">
+                          Sausage-Traybake-Sweet-Potato
+                        </label>
+                      </div>
+                      
+                    </div>
+                  </div>
+                  
+
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="col-12 col-lg-9">
+            <div class="add-recipe row row-cols-1 mb-4 d-none d-lg-block">
+              <a href="https://github.com/compsoc-edinburgh/cook-book/new/main/?filename=main_courses/0-easy/foo.md&value=---%0Akeywords%3A%20%5Bbabylonian%2C%20fresh%2C%20vegetarian%5D%0Aallergens%3A%0A-%20milk%0Aserves%3A%2030%20cookies%0A---%0A%0A%23%20Grandma%27s%20Milk%20Chocolate%20Cookies%0A%0AThey%20always%20turn%20out%20delicious%21%0A%0A%23%23%20Ingredients%0A%0A%2A%2030g%20of%20molten%20hearts%0A%2A%2070g%20of%20unsalted%20butter%0A%2A%20100ml%20milk%0A%0A%23%23%20Blahblah&message=add%20my%20&delicious%20recipe">
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title">Add your own recipe!</h5>
+                    <p class="card-text">The format is <i>super</i> simple, it won't take minutes!</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <noscript>
+              Searching or filtering is not possible without JavaScript enabled. You can, however, view all recipes as a list <a href="view-all">here</a>.
+            </noscript>
+            <ol class="recipe-listing row row-cols-2 row-cols-lg-3 g-4" id="recipe-listing">
+              
+            </ol>
+          </section>
+        </div>
+      </main>
+      <footer>
+  <hr>
+  <p class="footer-notes">
+    <span><a href="https://comp-soc.com" alt="Comp-Soc Homepage">Comp-Soc Edinburgh</a> 🤎 you!</span>
+    <span class="d-print-none">GitHub Repos: <a alt="GitHub Repository for the recipes" href="https://github.com/compsoc-edinburgh/cook-book">Recipes</a> & <a alt="GitHub Repository for the website code" href="https://github.com/compsoc-edinburgh/cookbook-boilerplate">Website</a></span>
+    <br>
+    <span class="d-print-none">Content provided under the Creative Commons Zero v1.0 Universal license. Website code under the MIT license.</span>
+  </p>
+</footer>
+
+
+    </div>
+    
+<script type="text/javascript" src="../bootstrap/js/dist/dom/data.js"></script>
+<script type="text/javascript" src="../bootstrap/js/dist/dom/event-handler.js"></script>
+<script type="text/javascript" src="../bootstrap/js/dist/dom/manipulator.js"></script>
+<script type="text/javascript" src="../bootstrap/js/dist/dom/selector-engine.js"></script>
+<script type="text/javascript" src="../bootstrap/js/dist/base-component.js"></script>
+<script type="text/javascript" src="../bootstrap/js/dist/collapse.js"></script>
+
+    
+    <script async src="../js/search.min.4fc32724bd16a15b8dca8d48299f53a2962e2a9a90ff15e78768ecbd5b4ed2ef.js"></script>
+  </body>
+</html>
