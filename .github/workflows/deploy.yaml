@@ -22,6 +22,10 @@ jobs:
           submodules: 'recursive'
           fetch-depth: 0
       
+      - name: Update the cook-book data to latest
+        run: |
+          git submodule update --remote
+      
       - uses: actions/setup-python@v2
         with:
           python-version: 3.9.6
