@@ -1,10 +1,11 @@
+---
+prep time: 1 hour
+serves: 12 cupcakes
+---
+
 # Chocolate cupcakes
 
 This recipe is adapted from a vegetarian cookbook, and it's quickly become a favorite for its delicious frosting and fluffy base!
-
-**Prep time:** 1 hour
-
-**Serves** 12 cupcakes
 
 ## Ingredients
 

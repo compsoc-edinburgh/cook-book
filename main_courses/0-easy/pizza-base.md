@@ -1,10 +1,10 @@
-## Fool-proof Pizza Base
+# Fool-proof Pizza Base
 
 Your friends and family are going to ask you whether Gordon Ramsay assisted.
 
 As seen on https://github.com/elenalape/pizza
 
-### Ingredients:
+## Ingredients:
 
 - 1 large cup/2 normal cups all-purpose flour
 - 1/2 cup warm water
@@ -14,7 +14,7 @@ As seen on https://github.com/elenalape/pizza
 - 1 tbsp olive oil
 - **Optional: garlic powder**
 
-### Method:
+## Method:
 
 1. Add a small amount of warm (not hot, you'll kill the yeast!) water into a mug and mix with yeast and sugar until both dissolve. Leave it to sit for 5 minutes.
 2. In a large bowl, mix flour, salt and optionally, garlic powder. Pour in the yeasty water.

@@ -1,6 +1,8 @@
-# Slow Cooker Bánh Mì
+---
+serves: 4
+---
 
-Serves **4**
+# Slow Cooker Bánh Mì
 
 ### Ingredients
 

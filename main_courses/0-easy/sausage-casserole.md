@@ -1,6 +1,8 @@
-# Sausage Casserole
+---
+serves: 4
+---
 
-Serves **4**
+# Sausage Casserole
 
 ## Ingredients
 

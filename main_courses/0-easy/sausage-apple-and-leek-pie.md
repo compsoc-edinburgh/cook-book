@@ -1,6 +1,8 @@
-# Sausage, Apple and Leek Pie
+---
+serves: 4
+---
 
-Serves **4**
+# Sausage, Apple and Leek Pie
 
 ## Ingredients
 

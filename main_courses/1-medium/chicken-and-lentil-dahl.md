@@ -1,6 +1,8 @@
-# Chicken and Lentil Dahl
+---
+serves: 4
+---
 
-Serves **4**
+# Chicken and Lentil Dahl
 
 ## Ingredients
 

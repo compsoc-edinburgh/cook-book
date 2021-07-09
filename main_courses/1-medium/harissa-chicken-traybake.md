@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Harissa Chicken Traybake"
-tags: chicken harissa traybake
+tags: [chicken, harissa, traybake]
 ---
 
 ## Ingredients

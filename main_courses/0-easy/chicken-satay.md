@@ -1,6 +1,8 @@
-# Chicken Satay
+---
+serves: 4
+---
 
-Serves **4**
+# Chicken Satay
 
 ## Ingredients
 

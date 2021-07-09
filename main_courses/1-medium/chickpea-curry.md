@@ -1,6 +1,8 @@
-# Chickpea Curry
+---
+serves: 4
+---
 
-Serves **4**
+# Chickpea Curry
 
 ## Ingredients
 

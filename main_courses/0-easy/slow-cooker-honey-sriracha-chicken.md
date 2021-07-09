@@ -1,6 +1,8 @@
-# Slow Cooker Honey Sriracha Chicken
+---
+serves: 4
+---
 
-Serves **4**
+# Slow Cooker Honey Sriracha Chicken
 
 ## Ingredients
 

@@ -1,6 +1,8 @@
-# Courgette & Mint soup
+---
+serves: 4
+---
 
-Serves **4**
+# Courgette & Mint soup
 
 ## Ingredients
 

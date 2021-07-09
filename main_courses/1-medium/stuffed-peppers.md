@@ -1,10 +1,12 @@
+---
+serves: 8-11
+---
+
 # Stuffed peppers with mushrooms
 
 This vegan recipe is sure to impress your guests and makes for a lovely main course!
 
 Adapted from [this recipe](https://www.lalena.ro/u/reteta/902/Ardei-umpluti-cu-ciuperci/) with slight alterations - check it out if you need visuals.
-
-Serves **8-11**
 
 ## Ingredients
 

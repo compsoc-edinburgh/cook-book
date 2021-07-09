@@ -1,6 +1,8 @@
-# Brazilian Coconut Chicken
+---
+serves: 4
+---
 
-Serves **4**
+# Brazilian Coconut Chicken
 
 ## Ingredients
 

@@ -1,6 +1,8 @@
-# Turkish Eggs / Shakshuka
+---
+serves: 4
+---
 
-Serves **4**
+# Turkish Eggs / Shakshuka
 
 ## Ingredients
 

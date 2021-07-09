@@ -1,10 +1,8 @@
 ---
-layout: post
 title: "Baked Sausage With Sweet Potato And Fennel"
-tags: sausage traybake sweet-potato
+tags: [sausage, traybake, sweet-potato]
+serves: 4
 ---
-
-Serves **4**
 
 ## Ingredients
 

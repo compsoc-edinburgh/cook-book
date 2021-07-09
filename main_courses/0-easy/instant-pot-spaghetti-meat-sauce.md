@@ -1,8 +1,10 @@
+---
+serves: 4
+---
+
 # Instant Pot Spaghetti & Meat Sauce
 
 Super duper easy recipe for spaghetti & meat sauce that you can do right in an instant pot.
-
-Serves 4
 
 ## Ingredients
 

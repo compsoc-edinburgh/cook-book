@@ -1,6 +1,8 @@
-# Bacon, Potato And Split Pea Soup
+---
+serves: 6
+---
 
-Serves **6**
+# Bacon, Potato And Split Pea Soup
 
 ## Ingredients
 

@@ -1,6 +1,8 @@
-# Thai Green Curry
+---
+serves: 4
+---
 
-Serves **4**
+# Thai Green Curry
 
 ## Ingredients
 

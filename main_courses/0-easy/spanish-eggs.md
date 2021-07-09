@@ -1,6 +1,8 @@
-# "Spanish" Eggs
+---
+serves: 3
+---
 
-Serves **3**
+# "Spanish" Eggs
 
 ## Ingredients
 

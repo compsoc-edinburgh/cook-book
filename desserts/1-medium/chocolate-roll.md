@@ -1,9 +1,11 @@
+---
+serves: an entire family
+---
+
 # Chocolate roll
 
 This no-bake roll with biscuits and cocoa is a Romanian family favorite dessert!
 Inspired by [this recipe](https://www.lauraadamache.ro/2013/12/salam-de-biscuiti.html) with a couple of modifications.
-
-Serves **an entire family**
 
 ## Ingredients
 
@@ -21,7 +23,7 @@ Serves **an entire family**
 ## Method
 
 1. Melt the butter and chocolate on low heat until fully melted. Make sure not to melt the butter more than necessary. Let the mixture cool down.
-2. Take 120g of biscuits and crush them until they turn into small crumbs (make sure they're small, as they make the roll stick together). 
+2. Take 120g of biscuits and crush them until they turn into small crumbs (make sure they're small, as they make the roll stick together).
 3. Melt the sugar in 90ml milk and add it to the crushed biscuits.
 4. Break up the rest of the biscuits into larger pieces and add them to the mix along with the cocoa powder, rum essence, and the butter-chocolate mixture (which should be cold).
 5. Add a few teaspoons of cold milk and start mixing until homogenous. If you can make a little ball from the mix without it crumbling, it has a good consistency - if not, add more milk.

@@ -1,6 +1,8 @@
-# Steak Pie
+---
+serves: 4
+---
 
-Serves **4**
+# Steak Pie
 
 ## Ingredients
 

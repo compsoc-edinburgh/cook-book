@@ -1,6 +1,8 @@
-# Chorizo and Pearl Barley Risotto
+---
+serves: 4
+---
 
-Serves **4**
+# Chorizo and Pearl Barley Risotto
 
 ## Ingredients
 
@@ -21,5 +23,5 @@ Serves **4**
 2. Add the onion, garlic and paprika to the pan and cook for about 5 minutes until soft.
 3. Add the pearl barley and stir well to coat in oil, before adding the stock and tin of tomatoes.
    Bring just to the boil, then simmer and cook for 30 minutes, stirring occasionally, until all
-   the liquid has been absorbed and the pearl barley is tender. 
+   the liquid has been absorbed and the pearl barley is tender.
 4. Season then stir in rosemary and chorizo to serve.
