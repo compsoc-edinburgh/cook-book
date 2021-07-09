@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chicken on CompSoc Cookbook</title>
+    <link>/tags/chicken/</link>
+    <description>Recent content in chicken on CompSoc Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harissa Chicken Traybake</title>
+      <link>/recipes/harissa-chicken-traybake/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
+      
+      <guid>/recipes/harissa-chicken-traybake/</guid>
+      <description>Ingredients  3 tbsp harissa 3 tbsp low-fat natural yogurt 4 skinless chicken breasts, slashed 1 small butternut squash, peeled, deseeded and cut into wedges 2 red onions, cut into wedges  (Other vegetables also work, such as shallots, sweet potato(!), peppers, etc)
+Method  Heat oven to 200C/180C fan. Mix 2 tbsp of harissa with the yogurt and rub all over the chicken breasts and set aside to marinate while you start the veg.</description>
+    </item>
+    
+  </channel>
+</rss>

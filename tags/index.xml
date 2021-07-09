@@ -6,22 +6,49 @@
     <description>Recent content in Tags on CompSoc Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 20:41:49 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>chicken harissa traybake</title>
-      <link>/tags/chicken-harissa-traybake/</link>
-      <pubDate>Sat, 16 Jan 2021 20:41:49 +0000</pubDate>
+      <title>chicken</title>
+      <link>/tags/chicken/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/chicken-harissa-traybake/</guid>
+      <guid>/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sausage traybake sweet-potato</title>
-      <link>/tags/sausage-traybake-sweet-potato/</link>
-      <pubDate>Sat, 16 Jan 2021 20:41:49 +0000</pubDate>
+      <title>harissa</title>
+      <link>/tags/harissa/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/sausage-traybake-sweet-potato/</guid>
+      <guid>/tags/harissa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sausage</title>
+      <link>/tags/sausage/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
+      
+      <guid>/tags/sausage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sweet-potato</title>
+      <link>/tags/sweet-potato/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
+      
+      <guid>/tags/sweet-potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traybake</title>
+      <link>/tags/traybake/</link>
+      <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
+      
+      <guid>/tags/traybake/</guid>
       <description></description>
     </item>
     
