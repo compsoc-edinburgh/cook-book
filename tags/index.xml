@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CompSoc Cookbook</title>
-    <link>/tags/</link>
+    <link>https://cookbook.betterinformatics.com/tags/</link>
     <description>Recent content in Tags on CompSoc Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="https://cookbook.betterinformatics.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chicken</title>
-      <link>/tags/chicken/</link>
+      <link>https://cookbook.betterinformatics.com/tags/chicken/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/chicken/</guid>
+      <guid>https://cookbook.betterinformatics.com/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>harissa</title>
-      <link>/tags/harissa/</link>
+      <link>https://cookbook.betterinformatics.com/tags/harissa/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/harissa/</guid>
+      <guid>https://cookbook.betterinformatics.com/tags/harissa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sausage</title>
-      <link>/tags/sausage/</link>
+      <link>https://cookbook.betterinformatics.com/tags/sausage/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/sausage/</guid>
+      <guid>https://cookbook.betterinformatics.com/tags/sausage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sweet-potato</title>
-      <link>/tags/sweet-potato/</link>
+      <link>https://cookbook.betterinformatics.com/tags/sweet-potato/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/sweet-potato/</guid>
+      <guid>https://cookbook.betterinformatics.com/tags/sweet-potato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>traybake</title>
-      <link>/tags/traybake/</link>
+      <link>https://cookbook.betterinformatics.com/tags/traybake/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/tags/traybake/</guid>
+      <guid>https://cookbook.betterinformatics.com/tags/traybake/</guid>
       <description></description>
     </item>
     

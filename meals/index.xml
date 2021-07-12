@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meals on CompSoc Cookbook</title>
-    <link>/meals/</link>
+    <link>https://cookbook.betterinformatics.com/meals/</link>
     <description>Recent content in Meals on CompSoc Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="/meals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="https://cookbook.betterinformatics.com/meals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>desserts</title>
-      <link>/meals/desserts/</link>
+      <link>https://cookbook.betterinformatics.com/meals/desserts/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/meals/desserts/</guid>
+      <guid>https://cookbook.betterinformatics.com/meals/desserts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>main_courses</title>
-      <link>/meals/main_courses/</link>
+      <link>https://cookbook.betterinformatics.com/meals/main_courses/</link>
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
-      <guid>/meals/main_courses/</guid>
+      <guid>https://cookbook.betterinformatics.com/meals/main_courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cocktails</title>
-      <link>/meals/cocktails/</link>
+      <link>https://cookbook.betterinformatics.com/meals/cocktails/</link>
       <pubDate>Mon, 18 Jan 2021 20:40:01 +0000</pubDate>
       
-      <guid>/meals/cocktails/</guid>
+      <guid>https://cookbook.betterinformatics.com/meals/cocktails/</guid>
       <description></description>
     </item>
     
