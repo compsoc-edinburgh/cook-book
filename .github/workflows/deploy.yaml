@@ -50,7 +50,7 @@ jobs:
           extended: true
           
       - name: Build
-        run: hugo --baseURL https://cookbook.betterinformatics.com
+        run: hugo --baseURL https://cookbook.comp-soc.com
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
