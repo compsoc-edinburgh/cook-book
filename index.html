@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-	<meta name="generator" content="Hugo 0.86.1" />
+	<meta name="generator" content="Hugo 0.89.3" />
     <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -94,24 +94,53 @@
 </header>
 
       <main>
-        <section class="mb-5 pb-5">
+        <section class="mb-5">
           <h1 class="display-2 text-center mb-3">CompSoc CookBook</h1>
           <h4 class="display-6 text-bold text-center mb-5">Hey, good lookin&#39;, whatcha got cookin&#39;?</h4>
           <p>
             CompSoc Cookbook is a curated list of recipes by CompSoc Edinburgh members.
           </p>
           <p>
-            We'd love you to contribute some of your own favourite recipes! All of our data is on <a href="https://github.com/compsoc-edinburgh/cook-book">GitHub</a>, and the format is plain Markdown.
+            We'd love you to contribute some of your own favourite recipes! We use Git to manage our recipes, and you can see our repository here: <a href="https://github.com/compsoc-edinburgh/cook-book" title="GitHub repository link">GitHub</a>. We try to follow professional practices where possible, so this would be a great introduction for you to learn Git, pull requests, reviewing, and getting your contribution live. See below for detailed guides!
+          </p>
+        </section>
+        <section class="mb-5 pb-5">
+          <h2 class="display-5 text-bold mb-3">Steps for contribution</h2>
+          <p>
+            Note; If you use the various "Add/Edit" buttons on this website, many of the following steps will be automated.
+            <ol>
+              <li>Fork (i.e. make a copy) of the cookbook repository by clicking on the button at the top right.</li>
+              <li>In your fork, create a new "branch" using the dropdown above the file list. Name it something intuitive, like "fix-typo-in-cookie-recipe" or "add-gingerbread".</li>
+              <li>In your fork, in your new branch, make your edits! Add files or edit files. Take a look at existing recipes for format guidance!
+                <ul>
+                  <li>At this stage, you can also install <a href="https://git-scm.com/">Git</a> on your computer, clone your repository, and make edits there. Make sure you use <code>git commit</code> and <code>git push</code> to your fork after you are done!</li>
+                </ul>
+              </li>
+              <li>Submit a <a href="https://github.com/compsoc-edinburgh/cook-book/pulls">Pull Request</a> (a request for CompSoc to pull your changes into the original). Explain your changes!</li>
+              <li>Wait for somebody to review your edits, and if all goes well, it'll be merged in! At this point it's live on the website :)</li>
+            </ol>
+            These steps are universal to many open- and closed- source repositories, and becoming familiar with it would be a great way to prepare for your professional career.
           </p>
         </section>
         <hr>
         <section class="my-5 py-2">
           <div class="d-block d-lg-flex justify-content-between mb-3">
-            <h2 class="display-5 text-bold mb-3">Most Recently Updated Recipes</h2>
+            <h2 class="display-5 text-center text-bold mb-3">Most Recently Updated Recipes</h2>
             <p><a href="recipes" class="btn btn-outline-primary">View all Recipes</a></p>
           </div>
           <ol class="recipe-listing row row-cols-2 row-cols-lg-4 g-3">
             
+            
+            <li class="recipe-listing-item col">
+              <a href="/recipes/pink-lady/">
+                <div class="card h-100" role="article">
+                  <div class="card-body">
+                    <span class="meta">18 Nov, 2021</span>
+                    <h4 class="display-6 mt-lg-3">Pink Lady</h4>
+                  </div>
+                </div>
+              </a>
+            </li>
             
             <li class="recipe-listing-item col">
               <a href="/recipes/turkish-eggs/">
@@ -124,7 +153,7 @@
               </a>
             </li>
             
-            <li class="recipe-listing-item col">
+            <li class="recipe-listing-item col d-none d-lg-block">
               <a href="/recipes/best-thai-green-curry/">
                 <div class="card h-100" role="article">
                   <div class="card-body">
@@ -141,17 +170,6 @@
                   <div class="card-body">
                     <span class="meta">9 Jul, 2021</span>
                     <h4 class="display-6 mt-lg-3">Stuffed peppers with mushrooms</h4>
-                  </div>
-                </div>
-              </a>
-            </li>
-            
-            <li class="recipe-listing-item col d-none d-lg-block">
-              <a href="/recipes/steak-pie/">
-                <div class="card h-100" role="article">
-                  <div class="card-body">
-                    <span class="meta">9 Jul, 2021</span>
-                    <h4 class="display-6 mt-lg-3">Steak Pie</h4>
                   </div>
                 </div>
               </a>

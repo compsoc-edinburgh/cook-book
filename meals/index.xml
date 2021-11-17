@@ -6,7 +6,16 @@
     <description>Recent content in Meals on CompSoc Cookbook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jul 2021 23:56:20 +0100</lastBuildDate><atom:link href="https://cookbook.comp-soc.com/meals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 05:17:02 +0900</lastBuildDate><atom:link href="https://cookbook.comp-soc.com/meals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cocktails</title>
+      <link>https://cookbook.comp-soc.com/meals/cocktails/</link>
+      <pubDate>Thu, 18 Nov 2021 05:17:02 +0900</pubDate>
+      
+      <guid>https://cookbook.comp-soc.com/meals/cocktails/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>desserts</title>
       <link>https://cookbook.comp-soc.com/meals/desserts/</link>
@@ -22,15 +31,6 @@
       <pubDate>Fri, 09 Jul 2021 23:56:20 +0100</pubDate>
       
       <guid>https://cookbook.comp-soc.com/meals/main_courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cocktails</title>
-      <link>https://cookbook.comp-soc.com/meals/cocktails/</link>
-      <pubDate>Mon, 18 Jan 2021 20:40:01 +0000</pubDate>
-      
-      <guid>https://cookbook.comp-soc.com/meals/cocktails/</guid>
       <description></description>
     </item>
     

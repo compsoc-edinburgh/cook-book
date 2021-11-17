@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cookbook.comp-soc.com/recipes/spanish-eggs/</loc>
-    <lastmod>2021-07-09T23:56:20+01:00</lastmod>
-  </url><url>
     <loc>https://cookbook.comp-soc.com/difficulties/0-easy/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/meals/cocktails/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/difficulties/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/meals/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/pink-lady/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/</loc>
+    <lastmod>2021-11-18T05:17:02+09:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/spanish-eggs/</loc>
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/difficulties/1-medium/</loc>
@@ -41,16 +59,10 @@
     <loc>https://cookbook.comp-soc.com/recipes/chorizo-and-pearl-barley-risotto/</loc>
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
-    <loc>https://cookbook.comp-soc.com/</loc>
-    <lastmod>2021-07-09T23:56:20+01:00</lastmod>
-  </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/courgette-and-mint-soup/</loc>
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/meals/desserts/</loc>
-    <lastmod>2021-07-09T23:56:20+01:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/difficulties/</loc>
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/pizza-base/</loc>
@@ -66,12 +78,6 @@
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/meals/main_courses/</loc>
-    <lastmod>2021-07-09T23:56:20+01:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/meals/</loc>
-    <lastmod>2021-07-09T23:56:20+01:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/recipes/</loc>
     <lastmod>2021-07-09T23:56:20+01:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/tags/sausage/</loc>
@@ -112,9 +118,6 @@
   </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/bulgar_wheat_with_pine_nuts_carrot_and_feta/</loc>
     <lastmod>2021-01-21T22:46:29+00:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/meals/cocktails/</loc>
-    <lastmod>2021-01-18T20:40:01+00:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/wikipedia_pina_colada/</loc>
     <lastmod>2021-01-18T20:40:01+00:00</lastmod>
