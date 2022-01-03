@@ -1,3 +1,8 @@
+---
+allergens:  [gluten, milk]
+serves: 2 people
+---
+
 # Chorizo Linguine
 
 ## Ingredients
