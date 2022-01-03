@@ -1,3 +1,7 @@
+---
+allergens:  [soy, sulphites, fish, eggs]
+---
+
 # Thai Eggs
 
 ## Ingredients

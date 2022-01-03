@@ -1,3 +1,7 @@
+---
+allergens:  [mustard]
+---
+
 # Slow-Roasted Pork Belly with Fennel
 
 ## Ingredients

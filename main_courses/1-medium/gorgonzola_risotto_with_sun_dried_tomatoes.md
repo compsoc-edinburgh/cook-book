@@ -1,3 +1,7 @@
+---
+allergens:  [milk]
+---
+
 # Gorgonzola risotto with sun dried tomatoes
 
 ## Ingredients

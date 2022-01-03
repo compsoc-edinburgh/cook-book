@@ -1,6 +1,7 @@
 ---
 title: "Harissa Chicken Traybake"
 tags: [chicken, harissa, traybake]
+allergens: [milk]
 ---
 
 ## Ingredients

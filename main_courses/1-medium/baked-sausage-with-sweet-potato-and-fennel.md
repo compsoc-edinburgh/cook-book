@@ -2,6 +2,7 @@
 title: "Baked Sausage With Sweet Potato And Fennel"
 tags: [sausage, traybake, sweet-potato]
 serves: 4
+allergens:  [gluten, celery]
 ---
 
 ## Ingredients

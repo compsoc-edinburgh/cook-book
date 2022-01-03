@@ -1,3 +1,7 @@
+---
+allergens:  [eggs, mustard]
+---
+
 # Chickpea, spinach and egg curry
 
 ## Ingredients

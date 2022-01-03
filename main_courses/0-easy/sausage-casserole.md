@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens:  [fish]
 ---
 
 # Sausage Casserole

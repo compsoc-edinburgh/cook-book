@@ -1,6 +1,7 @@
 ---
 prep time: 1 hour
 serves: 12 cupcakes
+allergens:  [eggs, milk, nuts, gluten]
 ---
 
 # Chocolate cupcakes

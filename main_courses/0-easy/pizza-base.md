@@ -1,3 +1,7 @@
+---
+allergens:  [gluten]
+---
+
 # Fool-proof Pizza Base
 
 Your friends and family are going to ask you whether Gordon Ramsay assisted.

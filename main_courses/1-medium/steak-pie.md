@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens:  [gluten, eggs]
 ---
 
 # Steak Pie

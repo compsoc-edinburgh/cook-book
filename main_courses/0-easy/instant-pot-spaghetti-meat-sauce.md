@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens:  [gluten]
 ---
 
 # Instant Pot Spaghetti & Meat Sauce

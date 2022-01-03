@@ -1,3 +1,7 @@
+---
+allergens:  [gluten, eggs]
+---
+
 # Pierogi
 
 ## Dough 

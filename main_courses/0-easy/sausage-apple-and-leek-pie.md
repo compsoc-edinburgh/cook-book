@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens:  [gluten, eggs, mustard]
 ---
 
 # Sausage, Apple and Leek Pie
