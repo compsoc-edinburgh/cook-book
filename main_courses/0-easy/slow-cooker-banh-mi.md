@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens:  [soy]
 ---
 
 # Slow Cooker Bánh Mì
