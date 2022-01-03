@@ -1,3 +1,7 @@
+---
+allergens:  [gluten, nuts, milk]
+---
+
 # Bulgar Wheat with Pine Nuts, Carrot and Feta
 
 ## Ingredients
