@@ -1,5 +1,6 @@
 ---
 serves: an entire family
+allergens:  [milk, gluten]
 ---
 
 # Chocolate roll
