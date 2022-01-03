@@ -1,3 +1,7 @@
+---
+allergens:  [gluten, eggs, mustard]
+---
+
 # Pork & Pistachio Meatloaf
 
 ## Ingredients
