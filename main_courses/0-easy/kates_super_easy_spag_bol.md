@@ -22,7 +22,7 @@ Ridiculously simple spaghetti bolognese recipe; not super healthy, but it'll do 
 1. Heat up a pan with olive oil. Keep the heat at medium throughout. 
 2. Add the beef mince and brown, mixing the mince until fully browned. 
 3. Add the chopped tomatoes, tomato purée, and seasoning while stirring. 
-4. Make up around 400ml of stock with the stock cube, then add to the pan. 
+4. Dissolve the stock cube in around 400ml of hot water, then add to the pan.
 5. Stir in fully and put a lid on the pan. 
 6. Simmer for around 45 minutes or until thick. Make sure the temperature is consistent and it won't boil over for the first while; thereafter you don't need to pay particularly close attention to it. 
 7. Add spaghetti and boiling water to a pot, cooking the spaghetti according to the packet instructions or at a simmer. 
