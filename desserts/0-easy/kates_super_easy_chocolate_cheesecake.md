@@ -31,7 +31,7 @@ Serves 6-12.
 
 ### Cheesecake mixture
 6. Prepare a pot of hot water and set a heat-resistant bowl in it, making sure the bowl does not make contact with the water (double-boiling). Set the heat to a medium heat initially. 
-7. Decrease the heat to a low heat, and break the chocolate into small pieces and melt in the bowl when ready. 
+7. Once boiling, decrease the heat to a low heat, and break the chocolate into small pieces and melt in the bowl. 
 8. **By hand,** mix in the cream cheese, milk, and any optional ingredients (e.g. Cointreau and orange zest for a slightly alcoholic chocolate orange cheesecake). 
 9. This mixture may initially turn a lighter brown and create a swirling pattern (especially if a lower chocolate content is chosen), but this will turn to a smooth dark chocolate colour once this has been stirred by hand sufficiently. **These results do not appear if mixed by machine.**
 10. Pour this mitxure into the biscuit base, levelling it out with a spoon. 
