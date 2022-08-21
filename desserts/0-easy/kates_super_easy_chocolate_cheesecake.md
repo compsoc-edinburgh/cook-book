@@ -1,6 +1,6 @@
 ---
 serves: 6-12
-allergens:  wheat, milk, dairy
+allergens:  [wheat, milk, dairy]
 ---
 
 # Kate's Super Easy Chocolate Cheesecake
