@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cookbook.comp-soc.com/recipes/spanish-eggs/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
     <loc>https://cookbook.comp-soc.com/difficulties/0-easy/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/meals/desserts/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/difficulties/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/kates_super_easy_chocolate_cheesecake/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/meals/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/</loc>
+    <lastmod>2022-08-21T17:18:25+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/kates_super_easy_spag_bol/</loc>
+    <lastmod>2022-08-21T17:12:33+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/meals/main_courses/</loc>
+    <lastmod>2022-08-21T17:12:33+01:00</lastmod>
+  </url><url>
+    <loc>https://cookbook.comp-soc.com/recipes/spanish-eggs/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/difficulties/1-medium/</loc>
@@ -38,16 +62,7 @@
     <loc>https://cookbook.comp-soc.com/recipes/chorizo_linguine/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
-    <loc>https://cookbook.comp-soc.com/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/courgette-and-mint-soup/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/meals/desserts/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/difficulties/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/pizza-base/</loc>
@@ -65,19 +80,10 @@
     <loc>https://cookbook.comp-soc.com/recipes/instant-pot-spaghetti-meat-sauce/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
-    <loc>https://cookbook.comp-soc.com/meals/main_courses/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/meals/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/pierogi/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/recipes/pork-and-pistachio-meatloaf/</loc>
-    <lastmod>2022-01-03T21:40:23+00:00</lastmod>
-  </url><url>
-    <loc>https://cookbook.comp-soc.com/recipes/</loc>
     <lastmod>2022-01-03T21:40:23+00:00</lastmod>
   </url><url>
     <loc>https://cookbook.comp-soc.com/tags/sausage/</loc>
