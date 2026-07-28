@@ -1,6 +1,6 @@
 ---
 serves: 3
-allergens:  [eggs]
+allergens:  [eggs, pork]
 ---
 
 # "Spanish" Eggs
