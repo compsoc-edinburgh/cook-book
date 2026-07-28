@@ -1,5 +1,5 @@
 ---
-allergens:  [milk]
+allergens:  [milk, sulphites]
 ---
 
 # Gorgonzola risotto with sun dried tomatoes
