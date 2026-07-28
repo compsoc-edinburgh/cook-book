@@ -1,3 +1,9 @@
+---
+allergens:  [eggs]
+serves: 1 Person
+prep time: 7 Mins
+---
+
 # Whiskey Sour
 
 Courtesy of every speakeasy that ever talked a big game about "balance"
