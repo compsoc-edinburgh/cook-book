@@ -1,5 +1,6 @@
 ---
 serves: 4
+allergens: [pork]
 ---
 
 # Chorizo and Pearl Barley Risotto
