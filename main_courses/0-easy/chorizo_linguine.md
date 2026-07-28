@@ -1,5 +1,5 @@
 ---
-allergens:  [gluten, milk]
+allergens:  [gluten, milk, pork]
 serves: 2 people
 ---
 
