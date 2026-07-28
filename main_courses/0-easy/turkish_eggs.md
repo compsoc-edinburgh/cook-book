@@ -1,6 +1,6 @@
 ---
 serves: 4
-allergens:  [eggs, milk]
+allergens:  [eggs, milk, capsicum]
 ---
 
 # Turkish Eggs / Shakshuka
